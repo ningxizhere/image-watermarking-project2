@@ -21,7 +21,7 @@
  
  // 包含CImg库。将CIMG_DISPLAY设为0表示我们不需要图形界面显示功能。
  #define cimg_display 0
- #include "CImg.h"
+#include "../include/CImg.h"
  
  using namespace cimg_library;
  
